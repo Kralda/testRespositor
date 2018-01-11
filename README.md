@@ -1,2 +1,2 @@
 # testRespositor
-Pro testování úlohy
+Pro testovací úlohy
